@@ -1,0 +1,1 @@
+savedcmd_/home/venkatesh/Desktop/Worksheet_Assignments/Sheet_29/platform_dev.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/venkatesh/Desktop/Worksheet_Assignments/Sheet_29/platform_dev.ko /home/venkatesh/Desktop/Worksheet_Assignments/Sheet_29/platform_dev.o /home/venkatesh/Desktop/Worksheet_Assignments/Sheet_29/platform_dev.mod.o

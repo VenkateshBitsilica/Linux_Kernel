@@ -1,0 +1,1 @@
+savedcmd_/home/venkatesh/Desktop/Worksheet_Assignments/Sheet_24/gpio_driver.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/venkatesh/Desktop/Worksheet_Assignments/Sheet_24/gpio_driver.ko /home/venkatesh/Desktop/Worksheet_Assignments/Sheet_24/gpio_driver.o /home/venkatesh/Desktop/Worksheet_Assignments/Sheet_24/gpio_driver.mod.o

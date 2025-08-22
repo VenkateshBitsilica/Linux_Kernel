@@ -1,0 +1,1 @@
+savedcmd_/home/venkatesh/Desktop/Worksheet_Assignments/Sheet_29/platform_dev.mod := printf '%s\n'   platform_dev.o | awk '!x[$$0]++ { print("/home/venkatesh/Desktop/Worksheet_Assignments/Sheet_29/"$$0) }' > /home/venkatesh/Desktop/Worksheet_Assignments/Sheet_29/platform_dev.mod
